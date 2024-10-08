@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-11-CodeBlock-VariableScope")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6057caa49eee5df0c50430d091c0629c55bfd040")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d80ee23edbab9bbd0033559a617a019c1fbff3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-11-CodeBlock-VariableScope")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-11-CodeBlock-VariableScope")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

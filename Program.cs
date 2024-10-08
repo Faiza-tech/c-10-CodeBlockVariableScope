@@ -47,9 +47,9 @@ foreach (int number in numbers)
 
     if (number == 42)
     {
-        bool found = true;
+        bool fouund = true;
 
-        if (found)
+        if (fouund)
         {
             Console.WriteLine("Set contains 42");
 
