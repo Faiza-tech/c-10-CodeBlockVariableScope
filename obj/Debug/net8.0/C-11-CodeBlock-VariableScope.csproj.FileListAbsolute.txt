@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\bin\Debug\net8.0\C-11-CodeBlock-VariableScope.exe
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\bin\Debug\net8.0\C-11-CodeBlock-VariableScope.deps.json
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\bin\Debug\net8.0\C-11-CodeBlock-VariableScope.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\bin\Debug\net8.0\C-11-CodeBlock-VariableScope.dll
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\bin\Debug\net8.0\C-11-CodeBlock-VariableScope.pdb
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\C-11-CodeBlock-VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\C-11-CodeBlock-VariableScope.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\C-11-CodeBlock-VariableScope.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\C-11-CodeBlock-VariableScope.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\C-11-CodeBlock-VariableScope.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\C-11-CodeBlock-VariableScope.dll
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\refint\C-11-CodeBlock-VariableScope.dll
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\C-11-CodeBlock-VariableScope.pdb
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\C-11-CodeBlock-VariableScope.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\C-11-CodeBlock-VariableScope\obj\Debug\net8.0\ref\C-11-CodeBlock-VariableScope.dll
